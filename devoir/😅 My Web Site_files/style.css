@@ -1,0 +1,30 @@
+        body {
+            background-color: #a55757;
+        }
+
+        hr {
+           background-color: white;
+           border-style: none;
+           border-top-style: dotted;
+           border-color: grey;
+           border-width: 10px;
+           width: 8%;
+
+        }
+
+    h1 {
+        color: #080224;
+    }
+   
+    h3 {
+        color: #66BFBF;
+    }
+
+
+    .Circular {
+        border-radius: 100%;
+    }
+
+    img::hover {
+        border-radius: 100px;
+    }
